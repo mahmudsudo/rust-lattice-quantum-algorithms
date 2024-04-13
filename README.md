@@ -1,4 +1,4 @@
-QuantumLatticeRS
+## QuantumLatticeRS
 QuantumLatticeRS is a Rust library implementing state-of-the-art quantum algorithms for lattice problems. It provides efficient solutions for learning with errors (LWE), decisional shortest vector problem (GapSVP), and shortest independent vector problem (SIVP), opening new possibilities in cryptography and computational complexity research.
 
 Features
